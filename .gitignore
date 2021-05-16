@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/component/Login/.firebase.config.js
 /.firebase.config.js
 
 # testing
