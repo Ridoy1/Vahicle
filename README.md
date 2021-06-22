@@ -7,6 +7,7 @@ used form validation with firebase auth.
 authentication.
 
 • By clicking selective rides user can see their available different options of fairs.
+
 Technology used: React JS, Firebase authentication, Bootstrap, CSS, Firebase deploy,
 React router.
 
